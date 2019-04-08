@@ -15,6 +15,8 @@
 - MindMaster
   - 思维导图
   - `.emmx` 后缀
+  - 下载 https://www.edrawsoft.cn/mindmaster/
 - Markdown
   - 轻量级标记语言
   - `.md` 后缀
+  - Typora 便于windows导出好看pdf
